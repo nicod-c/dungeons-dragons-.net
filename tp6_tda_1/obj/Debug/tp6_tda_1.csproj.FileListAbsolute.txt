@@ -1,0 +1,7 @@
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\ejercicios\tp6_tda_1\tp6_tda_1\bin\Debug\tp6_tda_1.exe.config
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\ejercicios\tp6_tda_1\tp6_tda_1\bin\Debug\tp6_tda_1.exe
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\ejercicios\tp6_tda_1\tp6_tda_1\bin\Debug\tp6_tda_1.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\ejercicios\tp6_tda_1\tp6_tda_1\obj\Debug\tp6_tda_1.csprojAssemblyReference.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\ejercicios\tp6_tda_1\tp6_tda_1\obj\Debug\tp6_tda_1.csproj.CoreCompileInputs.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\ejercicios\tp6_tda_1\tp6_tda_1\obj\Debug\tp6_tda_1.exe
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\ejercicios\tp6_tda_1\tp6_tda_1\obj\Debug\tp6_tda_1.pdb
